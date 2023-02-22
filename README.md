@@ -1,9 +1,7 @@
 # English-Dictionary
 A dictionary is an application that allows users to search for a specific word and provides the meanings of the word and its synonym and antonym in return. It is build using Django framework and PyDictionary API.
 
-# Project Title
 
-A brief description of what this project does and who it's for
 
 ## Installation
 1. Clone or download this repository and open it in your editor of choice: 
